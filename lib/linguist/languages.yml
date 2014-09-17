@@ -716,6 +716,14 @@ FORTRAN:
   - .for
   - .fpp
 
+FSO table:
+  type: data
+  lexer: Text only
+  color: "#255025"
+  extensions:
+  - .tbl
+  - .tbm
+
 Factor:
   type: programming
   color: "#636746"
